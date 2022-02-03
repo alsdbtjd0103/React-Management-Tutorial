@@ -1,3 +1,7 @@
+## Management develop System
+
+이 프로젝트는 react 학습을 위한 간단한 토이 프로젝트입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
